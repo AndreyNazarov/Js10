@@ -40,3 +40,4 @@ checkReceivedTheme();
 
 switchInputRef.addEventListener('change', changeTheme);
 
+
